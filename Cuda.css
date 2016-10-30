@@ -1,6 +1,6 @@
 *{
     margin: 0;
-    font-family: 'Titilium Web', sans-serif;
+    font-family: 'Titillium Web', sans-serif;
 }
 
 #home{
@@ -24,15 +24,14 @@
     margin-top: 70px;
     font-weight: 400;
 }
-#text h1{
+#text {
     color: white;
     text-align: center;
     margin: auto;
     padding-top: 145px;
     display: inline-block;
-    font-weight: 700;
-    padding-left: 190px;
-    padding-right: 190px;
+    padding-left: 295px;
+    padding-right: 295px;
 }
 #work{
     color: white;
@@ -59,6 +58,14 @@
     height: 745px;
     
 }
+#barre1 {
+    background: #14a58c;
+    width: 88px;
+    height: 5px;
+    margin: auto;
+    border: none;
+    margin-top: 20px;
+}
 #title {
     text-align: center;
     color: white;
@@ -67,7 +74,7 @@
 #txt {
     text-align: center;
     color: white;
-    padding-top: 48px;
+    padding-top: 25px;
 }
 #serv li{
     list-style-type: none;
@@ -136,10 +143,12 @@
 #title2 {
     text-align: center;
     padding-top: 120px;
+    color: #3c4761;
 }
 #skills p{
     text-align: center;
     padding-top: 50px;
+    color: #636c81;
 }
 #percentage li {
     list-style-type: none;
@@ -154,14 +163,34 @@
     padding-top: 30px;
 }
 
+
 #portfolio{
     background: #ffdd99;
     width: 100%;
     height: 1422px;
 }
+#title3 {
+    text-align: center;
+    padding-top: 120px;
+}
+#portfolio p {
+    text-align: center;
+    padding-top: 50px;
+}
+#menu {
+    padding-left: 420px;
+    font-weight: 400;
+}
 #menu li{
+    text-align: center;
     list-style-type: none;
-    display: inline;
+    display: inline-block;
+    background: #ebc985;
+    width: 80px;
+    height: 30px;
+    padding-top: 10px;
+    margin-top: 40px;
+    border-radius: 4px;
 }
 
 
