@@ -192,6 +192,22 @@
     margin-top: 40px;
     border-radius: 4px;
 }
+#computer1 {
+    float: left;
+    text-align: center
+}
+#computer2 {
+    float: right;
+    text-align: center;
+}
+#computer3 {
+    float: left;
+    text-align: center;
+}
+#computer4 {
+    float: right;
+    text-align: center;
+}
 
 
 #about{
@@ -206,3 +222,86 @@
     width: 100%;
     height: 929px;
 }
+#title5 {
+    text-align: center;
+    color: white;
+    padding-top: 120px;
+}
+#barre6 {
+    background: #273a71;
+    width: 88px;
+    height: 5px;
+    margin: auto;
+    border: none;
+    margin-top: 20px;
+}
+#contact p {
+    text-align: center;
+    color: white;
+    padding-top: 25px;
+}
+#name {
+    background: #273a71;
+    width: 410px;
+    height: 55px;
+    float: left;
+    margin-top: 80px;
+    margin-left: 190px;
+    color: white;
+    border-radius: 4px
+}
+#name p{
+    text-align: left;
+    padding-left: 25px;
+    padding-top: 15px;
+}
+#email {
+    background: #273a71;
+    width: 410px;
+    height: 55px;
+    float: right;
+    margin-top: 80px;
+    margin-right: 190px;
+    color: white;
+    border-radius: 4px;
+}
+#email p{
+    text-align: left;
+    padding-left: 25px;
+    padding-top: 15px;
+}
+#message {
+    background: #273a71;
+    width: 900px;
+    height: 200px;
+    margin-left: 190px;
+    margin-right: 190px;
+    margin-top: 160px;
+    color: white;
+    border-radius: 4px;
+}
+#message p{
+    text-align: left;
+    padding-left: 25px;
+    padding-top: 15px
+}
+#send {
+    background: #30bae7;
+    width: 293px;
+    height: 66px;
+    color: white;
+    margin: auto;
+    margin-top: 60px;
+    border-radius: 4px;
+    border-bottom: solid 4px #299ec5;
+}
+#send h3 {
+    text-align: center;
+    padding-top: 20px;
+}
+#end li{
+    list-style-type: none;
+    display: inline-block;
+}
+
+
