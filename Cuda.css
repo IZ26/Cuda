@@ -17,7 +17,7 @@
 }
 #option li{
     list-style-type: none;
-    color: white;
+    color: #f7f3f8;
     padding: 0.75px 1.5px;;
     float: right;
     margin-right: 45px;
@@ -25,14 +25,23 @@
     margin-top: 70px;
     font-weight: 400;
 }
+#buttonhome {
+    background: #643a79;
+    width: 75px;
+    height: 30px;
+    border-radius: 3px;
+    text-align: center;
+    padding-top: 25px;
+}
 #text {
-    color: white;
+    color: #f7f3ea;
     text-align: center;
     margin: auto;
     padding-top: 145px;
     display: inline-block;
     padding-left: 295px;
     padding-right: 295px;
+    font-weight: 700;
 }
 #work{
     color: white;
@@ -74,7 +83,7 @@
 }
 #txt {
     text-align: center;
-    color: white;
+    color: #e0f7f3;
     padding-top: 25px;
 }
 #serv li{
@@ -100,6 +109,7 @@
     height: 912px;
 }
 #title1  {
+    color: #3c4761;
     text-align: center;
     padding-top: 120px;
     font-weight: 700;
@@ -113,6 +123,7 @@
     margin-top: 20px;
 }
 #team p {
+    color: #535e75;
     text-align: center;
     padding-top: 20px;
     font-weight: 400;
@@ -130,6 +141,7 @@
     padding-top: 80px;
 }
 #person h4 {
+    color: #3c4761;
     padding-top: 40px;
 }
 #person h5 {
@@ -140,6 +152,7 @@
     padding-top: 30px;
 }
 #person p {
+    color: #535e75;
     padding-top: 30px;
 }
 
@@ -177,6 +190,7 @@
     padding-top: 80px;
 }
 #percentage h5 {
+    color: #3c4761;
     padding-top: 30px;
 }
 
@@ -187,6 +201,7 @@
     height: 1422px;
 }
 #title3 {
+    color: #393939;
     text-align: center;
     padding-top: 120px;
 }
@@ -199,6 +214,7 @@
     margin-top: 20px;
 }
 #portfolio p {
+    color: #534f46;
     text-align: center;
     padding-top: 20px;
 }
@@ -209,6 +225,7 @@
     font-weight: 400;
 }
 #menu li{
+    color: #393939;
     text-align: center;
     list-style-type: none;
     display: inline-block;
@@ -221,6 +238,10 @@
 }
 #img {
     display: inline-block;
+}
+#img h5 {
+    color: #3c4761;
+    font-weight: 400;
 }
 #computer1 {
     float: left;
@@ -297,61 +318,7 @@
     margin-top: 20px;
     color: white;
 }
-#chanel li {
-    list-style-type: none;
-    margin-left: 100Px;
-    display: block;
-}
-#chanel {
-    margin-left: 200px;
-    margin-top: 70px;
-}
-#chanel p{
-    padding-top: 20px
-}
-#chanel img {
-    float: left;
-    padding-right: 50px
-}
-#lima {
-    margin-top: 70px;
-    float: right;
-    margin-right: 190px;
-}
-#lima li {
-    list-style-type: none;
-}
-#lima img {
-    float: left
-    
-}
-#hathaway {
-    text-align: left;
-    margin-left: 200px;
-    margin-top: 150px;
-}
-#hathaway li {
-    list-style-type: none;
-    margin-left: 100px;
-}
-#hathaway p {
-    padding-top: 20px;
-}
-#hathaway img {
-    float: left;
-    padding-right: 50px;
-}
-#stone {
-    margin-top: 150px;
-    float: right;
-    margin-right: 190px;
-}
-#stone li {
-    list-style-type: none;
-}
-#stone img {
-    float: left;
-}
+
 
 
 #contact{
@@ -459,5 +426,3 @@
     padding-right: 35px;
     padding-top: 40px;
 }
-
-
