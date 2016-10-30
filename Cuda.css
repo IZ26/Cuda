@@ -318,7 +318,54 @@
     margin-top: 20px;
     color: white;
 }
-
+#people h5 {
+    color: #ffdd99;
+    font-weight: 400;
+}
+#people p {
+    color: white;
+}
+#people h4 {
+    color: white;
+    padding-top: 30px;
+    font-weight: 700;
+}
+#chanel {
+    text-align: left;
+    float: left;
+    margin-left: 250px;
+    margin-top: 60px;
+}
+#chanel li {
+    list-style-type: none;
+}
+#adriana {
+    text-align: left;
+    float: right;
+    margin-right: 250px;
+    margin-top: 60px;
+}
+#adriana li {
+    list-style-type: none
+}
+#anne {
+    text-align: left;
+    float: left;
+    margin-left: 250px;
+    margin-top: 60px;
+}
+#anne li {
+    list-style-type: none;
+}
+#emma {
+    text-align: left;
+    float: right;
+    margin-right: 250px;
+    margin-top: 60px;
+}
+#emma li {
+    list-style-type: none;
+}
 
 
 #contact{
