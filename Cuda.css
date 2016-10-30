@@ -173,12 +173,22 @@
     text-align: center;
     padding-top: 120px;
 }
+#barre4 {
+    background: #e5c37f;
+    width: 88px;
+    height: 5px;
+    margin: auto;
+    border: none;
+    margin-top: 20px;
+}
 #portfolio p {
     text-align: center;
-    padding-top: 50px;
+    padding-top: 20px;
 }
 #menu {
-    padding-left: 420px;
+    margin-left: 435px;
+    margin-right: 400px;
+    display: inline-block;
     font-weight: 400;
 }
 #menu li{
@@ -194,19 +204,39 @@
 }
 #computer1 {
     float: left;
-    text-align: center
+    text-align: center;
+    margin-left: 80px;
+    margin-top: 60px;
+}
+#computer1 h5 {
+    margin-top: 25px
 }
 #computer2 {
     float: right;
     text-align: center;
+    margin-right: 80px;
+    margin-top: 60px
+}
+#computer2 h5 {
+    margin-top: 25px;
 }
 #computer3 {
     float: left;
     text-align: center;
+    margin-left: 80px;
+    margin-top: 65px;
+}
+#computer3 h5 {
+    margin-top: 25px;
 }
 #computer4 {
     float: right;
     text-align: center;
+    margin-right: 80px;
+    margin-top: 65px;
+}
+#computer4 h5 {
+    margin-top: 25px;
 }
 
 
@@ -226,6 +256,7 @@
     text-align: center;
     color: white;
     padding-top: 120px;
+    font-size: 700;
 }
 #barre6 {
     background: #273a71;
@@ -283,7 +314,7 @@
 #message p{
     text-align: left;
     padding-left: 25px;
-    padding-top: 15px
+    padding-top: 15px;
 }
 #send {
     background: #30bae7;
@@ -298,10 +329,28 @@
 #send h3 {
     text-align: center;
     padding-top: 20px;
+    font-weight: 600;
+    font-size: 18px
+}
+#end {
+    background: #273a71;
+    width: 100%;
+    height: 110px;
+    text-align: center;
+    margin-top: 115px;
 }
 #end li{
     list-style-type: none;
     display: inline-block;
+    color: white;
+    margin: 1.5px;
+    font-weight: 600;
+    font-size: 20px;
+    margin: auto;
+    margin-bottom: 0;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-top: 40px;
 }
 
 
